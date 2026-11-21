@@ -1,8 +1,8 @@
 # GTA VI Trophy Rarity Forecast
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--trophy--rarity--forecast--01-blue)](https://make.fun/c/gta6-trophy-rarity-forecast-01)
-[![rank](https://img.shields.io/badge/rank-not%20yet%20scored-lightgrey)](https://make.fun/c/gta6-trophy-rarity-forecast-01)
-[![reward](https://img.shields.io/badge/reward-%24250%20%7C%2020%20places-green)](https://make.fun/c/gta6-trophy-rarity-forecast-01)
+[![make.fun · gta6-trophy-rarity-forecast-01](https://make.fun/badge/gta6-trophy-rarity-forecast-01.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![rank](https://make.fun/badge/gta6-trophy-rarity-forecast-01/rooneynft/gta6-trophy-rarity-forecast-01/rank.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
+[![reward](https://make.fun/badge/gta6-trophy-rarity-forecast-01/rooneynft/gta6-trophy-rarity-forecast-01/reward.svg)](https://make.fun/bounty/gta6-trophy-rarity-forecast-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-rarity-forecast-01)
 
 A program that forecasts every Grand Theft Auto VI PlayStation 5 trophy's
 Exophase earn rate at 2026-11-26T00:00:00Z — a week after launch — from the
